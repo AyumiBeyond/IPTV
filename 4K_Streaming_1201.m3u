@@ -21,6 +21,8 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 tvg-name="北京IPTV-4K" tvg-logo="http://159.75.85.63:5680/d/ad/btv.png" group-title="4K频道",北京IPTV-4K
 http://219.142.147.225:9901/tsfile/live/1011_1.m3u8
+#EXTINF:-1 tvg-name="北京BesTV-4K" tvg-logo="http://159.75.85.63:5680/d/ad/BesTV.jpeg" group-title="4K频道",北京BesTV-4K
+http://beifeng.site:4000/udp/239.3.1.249:8001
 #EXTINF:-1 tvg-name="咪咕体育-4K-HLG源" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源
 http://39.135.41.243/PLTV/88888888/224/3221226716/index.m3u8
 #EXTINF:-1 tvg-name="咪咕4K-HLG源-备用1" tvg-logo="https://epg.112114.xyz/logo/咪咕体育.png" group-title="4K频道",咪咕体育-4K-HLG源-2
@@ -46,19 +48,19 @@ http://cdnx1.plusx.tv:8880/316/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",Heritage 4k
 http://cdnx1.plusx.tv:8880/Heritage/mono.m3u8?token=cb776083b1e1b6f9bb2222
 #EXTINF:-1 group-title="4K频道",Insight UHD
-http://cdnx1.plusx.tv:8880/InsightUHD11/mono.m3u8?token=d0cef6d2e668ade6842222
+http://de1cdn.plusx.tv:8880/InsightUHD11/mono.m3u8?token=a6a4830189b90926652222
 #EXTINF:-1 group-title="4K频道",V Sports UHD
 http://clientsportals.tv:2095/play/live.php?mac=00:1A:79:bf:85:ce&stream=35891&extension=ts&play_token=Z1hXUmbsiM
 #EXTINF:-1 group-title="4K频道",Now Sports UHD HK
 http://sheriffwoody.in:80/live/Jeff1/Jeff1/1042156.ts
-#EXTINF:-1 group-title="4K频道",Now Sports UHD HK备
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK-1
 http://cdnx1.plusx.tv:8880/nowsport/mono.m3u8?token=cb776083b1e1b6f9bb2222
+#EXTINF:-1 group-title="4K频道",Now Sports UHD HK-2
+http://de1cdn.plusx.tv:8880/nowsport/mono.m3u8?token=a6a4830189b90926652222
 #EXTINF:-1 group-title="4K频道",SuperSport 4k World CUP
 http://cdn.spmr.tv:8080/pr8kvn/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",Sky Sport UHD
 http://cdn.spmr.tv:8080/3sin1s/video.m3u8?token=WYPW6GSH4H
-#EXTINF:-1 group-title="4K频道",RU Матч 4k
-http://cdn.spmr.tv:8080/w60cdr/video.m3u8?token=WYPW6GSH4H
 #EXTINF:-1 group-title="4K频道",TF1 4K
 http://193.107.202.221:81/live/Kirk123/Kirk123/1552953.ts
 #EXTINF:-1 group-title="4K频道",BT Sport Ultimate 4K
@@ -185,7 +187,6 @@ http://129.204.196.171:5678/gudou.php?id=xingkong_1500
 http://129.204.196.171:5678/gudou.php?id=1350_4500
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB%E6%98%8E%E7%8F%A0%E5%8F%B0.png" group-title="谷豆精品系列",明珠台HD
 http://129.204.196.171:5678/gudou.php?id=1351_4500
-#EXTM3U
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="谷豆本地",CCTV4K
 http://192.168.10.1:5678/gudou.php?id=4005
 #EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="谷豆本地",CCTV16-4K
