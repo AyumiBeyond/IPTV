@@ -129,6 +129,8 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="斗鱼4K" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV%E7%BB%8F%E5%85%B8%E7%94%B5%E5%BD%B1.png" group-title="4K频道",斗鱼4K
 http://epg.112114.xyz/douyu/9249162
+#EXTINF:-1 tvg-logo="https://img.sj33.cn/uploads/202106/7-2106211G121315.jpg" group-title="体育频道",抖音世界杯回放
+http://mmmitv.top/test/douyin-x.php?id=rand
 #EXTINF:-1 group-title="体育频道",CCTV5-高清(1)
 http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226395/index.m3u8
 #EXTINF:-1 group-title="体育频道",CCTV5-高清(2)
@@ -149,34 +151,6 @@ http://player.521fanli.cn/1691/gd/gztvm3u8.php?id=gzngds
 https://justsometime.gztv.com/sec/shenghuos.m3u8
 #EXTINF:-1 tvg-name="4K测试源" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/telegram/tg.jpg" group-title="4K频道",4K测试源
 http://159.75.85.63:5680/d/ad/playad.m3u8
-#EXTINF:-1 group-title="深圳地波",港台電視 32
-http://183.17.226.11:9981/stream/channelid/1432153651?ticket=4e81b07202548400d1766ba434f1c8fe19d6596c&profile=pass
-#EXTINF:-1 group-title="深圳地波",中央電視台綜合頻道（CCTV-1綜合)
-http://183.17.226.11:9981/stream/channelid/1015407276?ticket=0de9e18e5b4e95bbe0cdf46eb059e4bc36bd8998&profile=pass
-#EXTINF:-1 group-title="深圳地波",香港國際財經台
-http://183.17.226.11:9981/stream/channelid/646418415?ticket=5b809c06f3b75381252c65d08aa64e8ebcb83ec8&profile=pass
-#EXTINF:-1 group-title="深圳地波",HOY TV
-http://183.17.226.11:9981/stream/channelid/880267839?ticket=138caa68d01dbfbfeb5f3781e2869edb815ed043&profile=pass
-#EXTINF:-1 group-title="深圳地波",HOY 資訊台
-http://183.17.226.11:9981/stream/channelid/175084467?ticket=469f118626dbb3e6587ca47b7f57d407ff7488b2&profile=pass
-#EXTINF:-1 group-title="深圳地波",翡翠台
-http://183.17.226.11:9981/stream/channelid/1572004532?ticket=618e8c84e415d20fe9edecf8010087a66acbf171&profile=pass
-#EXTINF:-1 group-title="深圳地波",J2台
-http://183.17.226.11:9981/stream/channelid/1710831993?ticket=703c712ae19f047c7307db978113d282b92c8fac&profile=pass
-#EXTINF:-1 group-title="深圳地波",無綫新聞台
-http://183.17.226.11:9981/stream/channelid/1385862424?ticket=54ba5096580c99db734ebd63832a859bb0da130b&profile=pass
-#EXTINF:-1 group-title="深圳地波",明珠台
-http://183.17.226.11:9981/stream/channelid/1898891175?ticket=3ac1fed5c738638e3287ae328ebc5f8728f19bbd&profile=pass
-#EXTINF:-1 group-title="深圳地波",無綫財經 · 資訊台
-http://183.17.226.11:9981/stream/channelid/918908964?ticket=efc250a19fcc008cfc70ec741df493d9ca7e10f7&profile=pass
-#EXTINF:-1 group-title="深圳地波",ViuTVsix
-http://183.17.226.11:9981/stream/channelid/1204223602?ticket=327f2cef8685fec8de6c47f3104aa37e8e591f04&profile=pass
-#EXTINF:-1 group-title="深圳地波",ViuTV
-http://183.17.226.11:9981/stream/channelid/299333848?ticket=0c29161177b52f0d0686fac5cb66bd157c143cff&profile=pass
-#EXTINF:-1 group-title="深圳地波",广东综艺4K-25M
-http://183.17.226.11:9981/stream/channelid/1085394412?ticket=d52e00c68dfc212f0e4539ccac29c3c8e393f2ad&profile=pass
-#EXTINF:-1 group-title="深圳地波",广东综艺4K-46M
-http://183.17.226.11:9981/stream/channelid/308148190?ticket=9cde92e4439a089a61fc816cbe68337d307d7948&profile=pass
 #EXTINF:-1 tvg-name="CCTV-8K-组播AVS3源" tvg-logo="http://www.tvyan.com/uploads/dianshi/cctv8k.jpg" group-title="8K频道",CCTV-8K-组播AVS3源
 http://182.138.154.241:8000/udp/239.93.42.61:5140
 #EXTINF:-1 tvg-id="江苏8K测试" tvg-name="江苏8K测试" group-title="8K频道",江苏8K测试
