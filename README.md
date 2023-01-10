@@ -4,7 +4,7 @@
 
 **Special thanks to**
 
-- [肥羊4K/8K源](https://github.com/youshandefeiyang/IPTV](https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u)
+- [肥羊4K/8K源](https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u)
 - [肥羊百视通源](https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/bestv.m3u)
 - [肥羊CQYX源](https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u)
 - [肥羊足球源](https://football.v1.mk)
