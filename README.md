@@ -1,2 +1,7 @@
+⛔️Star ⛔️Fork ⛔️Share
+
 # 自用
-# 感谢肥羊等大佬
+
+**Special thanks to**
+
+- [肥羊](https://github.com/youshandefeiyang/IPTV)
