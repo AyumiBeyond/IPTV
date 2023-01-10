@@ -1,6 +1,6 @@
 ⛔️Star ⛔️Fork ⛔️Share
 
-**自用 For Own Use**
+**自用 (For Own Use)**
 
 **Special thanks to**
 
