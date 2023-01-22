@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1,tvg-id="CCTV4K-HLG-50P豆豆源" tvg-name="CCTV4K-HLG-50P豆豆源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K-HLG-50P豆豆源
-http://159.75.85.63:8654/telegram@feiyangdigital-gudou-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV-4K-HLG-25P" tvg-name="CCTV4K-HLG-25P" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K-HLG-25P
-http://159.75.85.63:8654/telegram@feiyangdigital-ysp-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K-HLG-50P小果源" tvg-name="CCTV4K-HLG-50P小果源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV-4K-HLG-50P小果源
-http://159.75.85.63:8654/telegram@feiyangdigital-sxg-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K-SDR-25P-CQYX源" tvg-name="CCTV4K-SDR-25P-CQYX源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K-SDR-25P-CQYX源
-http://114.132.210.86:8765/telegram@feiyangdigital-cqyx-cctv4k.m3u8
-#EXTINF:-1,tvg-id="CCTV4K-SDR-25P-Bestv源" tvg-name="CCTV4K-SDR-25P-Bestv源" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png" group-title="4K频道",CCTV4K-SDR-25P-Bestv源
-http://114.132.210.86:8765/telegram@feiyangdigital-bestv-cctv4k.m3u8
 #EXTINF:-1 tvg-name="CCTV4K-25P-HLG源" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K频道",CCTV4K-25P-HLG源
 http://159.75.85.63:5679/cctv4k.php
 #EXTINF:-1 tvg-name="北京IPTV-4K" tvg-logo="https://cdn.jsdelivr.net/gh/youshandefeiyang/IPTV/logo/EE6DBA9B-428F-460D-BAE3-5480771810C0.jpeg" group-title="4K频道",北京IPTV-4K
