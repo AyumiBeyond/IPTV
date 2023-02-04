@@ -13,6 +13,7 @@
 - [YanG Gather](https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)
 - [YanG 斗鱼](https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u)
 - [YanG 虎牙](https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u)
+- [YanG-1989-adult](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
 - [YueChan IPv6](https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u)
 - [YueChan Radio](https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u)
 - [APTV IPv6](https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u)
@@ -29,3 +30,5 @@
 - [TVradio](https://ghproxy.com/https://raw.githubusercontent.com/goolguy007/radioer/main/TVradio)
 - [epg.pm 测试频道](https://epg.pm/static/sitemap/test_channels_all.m3u)
 - [茶客](https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U)
+- [ddgksf2013](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
+
