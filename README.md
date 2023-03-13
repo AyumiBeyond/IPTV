@@ -34,4 +34,7 @@
 - [茶客](https://ghproxy.com/https://raw.githubusercontent.com/vamoschuck/TV/main/M3U)
 - [AILE-TV](https://ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u)
 - [ddgksf2013](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
+- [18+（8145个频道）](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
+
+
 
