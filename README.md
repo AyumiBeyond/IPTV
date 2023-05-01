@@ -9,6 +9,13 @@
 - [爱尚源](https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/aishang.m3u)
 - [肥羊CQYX源](https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/cqyx.m3u)
 - [肥羊精选](https://telegram-feiyangdigital.v1.mk)
+- [4K/8K源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPTV.m3u)
+- [BESTV源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/bestv.m3u)
+- [爱尚源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/aishang.m3u)
+- [CQYX源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/cqyx.m3u)
+- [GHYX源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/ghyx.m3u)
+- [ITOUCH源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/itouch.m3u)
+- [SXG-IPV6源](https://ghproxy.com/https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/sxg.m3u)
 - [Tony Shen](https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u)
 - [Tree](https://ghproxy.com/https://raw.githubusercontent.com/TreeYI2022/IPV6/main/ipv6gj.m3u)
 - [YanG Gather](https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u)
@@ -20,6 +27,8 @@
 - [YueChan Radio](https://ghproxy.com/https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u)
 - [APTV IPv6](https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u)
 - [APTV 回放测试源](https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/aptv-playback.m3u)
+- [APTV 虎牙一起看](https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/yqk.m3u)
+- [APTV 虎牙](https://ghproxy.com/https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/ya.m3u)
 - [范明明 IPv6](https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u)
 - [范明明 Global](https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/global.m3u)
 - [范明明 Radio](https://ghproxy.com/https://raw.githubusercontent.com/fanmingming/live/main/radio/m3u/index.m3u)
@@ -35,6 +44,10 @@
 - [AILE-TV](https://ghproxy.com/https://raw.githubusercontent.com/hussobaba/AILE-Tv/main/TEBER_TV.m3u)
 - [ddgksf2013](https://github.com/ddgksf2013/M3U8LIST/raw/master/IPTV2022.m3u)
 - [18+（8145个频道）](https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u)
+
+
+
+
 
 
 
