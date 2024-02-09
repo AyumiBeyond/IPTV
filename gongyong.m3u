@@ -1,18 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="春晚",CCTV4K-HLG-36Mbps-50FPS-GuDou满血
-http://1.14.131.61:5678/gd4k.php
-#EXTINF:-1 group-title="春晚",CCTV4K-HLG-36Mbps-50FPS-移动满血
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
-#EXTINF:-1 group-title="春晚",CCTV4K-HLG-36Mbps-50FPS-满血臻彩视听
-http://1.14.131.61:8765/av3a4k50fps.php
-#EXTINF:-1 group-title="春晚",CCTV8K-HLG-50FPS-AV3A-臻彩视听
-http://1.14.131.61:8654/av3a8k50fps.php
-#EXTINF:-1 group-title="春晚",移动8K-1-150Mbps-50FPS-HLG-HEVC
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233652/index.m3u8
-#EXTINF:-1 group-title="春晚",移动8K-2-150Mbps-50FPS-HLG-HEVC
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235532/index.m3u8
-#EXTINF:-1 group-title="春晚",移动8K-3-150Mbps-50FPS-HLG-AVS3
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221235537/index.m3u8
+
 #EXTM3U x-tvg-url="https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://mirror.ghproxy.com/https://raw.githubusercontent.com/Meroser/EPG-test/main/tvxml-test.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #央视高清/22个频道
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/CCTV1.png" group-title="央视",CCTV-1 综合
